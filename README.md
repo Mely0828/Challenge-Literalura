@@ -17,8 +17,8 @@ El reto consiste en crear una App para realizar consultas en un catálogo de lib
 
 ## Programas, archivos y versiones requeridas:
 
-•	Java JDK (versión: 17 en adelante)
-•	Maven (versión 4 en adelante)
-•	Spring (versión 3.2.3)
-•	Postgres (versión 16 en adelante)
-•	IDE IntelliJ IDEA (opcional)
+- Java JDK (versión: 17 en adelante)
+- Maven (versión 4 en adelante)
+- Spring (versión 3.2.3)
+- Postgres (versión 16 en adelante)
+- IDE IntelliJ IDEA (opcional)
