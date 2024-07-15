@@ -6,14 +6,14 @@ El reto consiste en crear una App para realizar consultas en un catálogo de lib
 
 ## Funcionalidades del catálogo:
 
-1- Buscar libro por título
-2- Ver lista de libros registrados
-3- Ver lista de autores registrados
-4- Ver lista de autores vivos en un año específico
-5- Ver lista de libros por idioma
-6- Top 10 libros más descargados
-7- Estadísticas
-0- Salir
+1) Buscar libro por título
+2) Ver lista de libros registrados
+3) Ver lista de autores registrados
+4) Ver lista de autores vivos en un año específico
+5) Ver lista de libros por idioma
+6) Top 10 libros más descargados
+7) Estadísticas
+0) Salir
 
 ## Programas, archivos y versiones requeridas:
 
